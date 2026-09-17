@@ -14,7 +14,7 @@
 ## Telas e Imagens do Sistema
 
 <p align="center">
-  <img src="https://github.com/fydelis2025/FydelGuard/blob/main/FydelGuard.png" alt="FydelisTechOS Dashboard" width="100%">
+  <img src="https://github.com/fydelis2025/FydelisTech-Player/blob/main/Fydelis-Player.png" alt="FydelisTechOS Dashboard" width="100%">
 </p>
 
 ## Uso Básico
