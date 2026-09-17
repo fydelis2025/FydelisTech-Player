@@ -11,6 +11,12 @@
 | **MP3** | Áudio | 🚧 Em implementação |
 | **MJPEG** | Vídeo | 🚧 Em implementação |
 
+## Telas e Imagens do Sistema
+
+<p align="center">
+  <img src="https://github.com/fydelis2025/FydelGuard/blob/main/FydelGuard.png" alt="FydelisTechOS Dashboard" width="100%">
+</p>
+
 ## Uso Básico
 
 ```cpp
