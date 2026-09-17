@@ -1,0 +1,1 @@
+-I"C:/Users/asfontes/Desktop/libfydelis-codecs/build/fydelis-codecs_autogen/include" -I"C:/Users/asfontes/Desktop/libfydelis-codecs/include" -isystem "C:/Qt/6.11.2/llvm-mingw_64/include/QtCore" -isystem "C:/Qt/6.11.2/llvm-mingw_64/include" -isystem "C:/Qt/6.11.2/llvm-mingw_64/mkspecs/win32-clang-g++" -isystem "C:/Qt/6.11.2/llvm-mingw_64/include/QtGui"

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fydelis">
+        <file>style.qss</file>
+		<file>resources/icons/player.ico</file>
+		<file>resources/icons/player.png</file>
+    </qresource>
+</RCC>

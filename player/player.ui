@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Player</class>
+ <widget class="QMainWindow" name="Player">
+  <property name="windowTitle">
+   <string notr="true">FydelisTech-Player</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="vbox">
+    <item>
+     <widget class="QLabel" name="lblTitle">
+      <property name="text">
+       <string notr="true">FydelisTech-Player v1.0</string>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 22px; font-weight: bold; color: #00FF41;</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="lblFile">
+      <property name="text">
+       <string notr="true">Nenhum arquivo carregado</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="lblVideo">
+      <property name="minimumSize">
+       <size><width>0</width><height>340</height></size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background: #000; border: 1px solid #00FF41;</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+      <property name="text">
+       <string notr="true">Área de Vídeo</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="lblTime">
+      <property name="text">
+       <string notr="true">00:00</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 18px; color: #00FF41; font-weight: bold;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="controls">
+      <item>
+       <widget class="QPushButton" name="btnLocal">
+        <property name="text"><string notr="true">📂 Arquivo</string></property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnUrl">
+        <property name="text"><string notr="true">🌐 URL/YT</string></property>
+       </widget>
+      </item>
+      <item><spacer><property name="width"><number>20</number></property></spacer></item>
+      <item>
+       <widget class="QPushButton" name="btnPlay">
+        <property name="text"><string notr="true">▶ Play</string></property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnPause">
+        <property name="text"><string notr="true">⏸ Pausa</string></property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnStop">
+        <property name="text"><string notr="true">⏹ Parar</string></property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSlider" name="sliderVolume">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="minimum">
+         <number>0</number>
+        </property>
+        <property name="maximum">
+         <number>100</number>
+        </property>
+        <property name="value">
+         <number>100</number>
+        </property>
+        <property name="maximumSize">
+         <size><width>100</width><height>20</height></size>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+</ui>

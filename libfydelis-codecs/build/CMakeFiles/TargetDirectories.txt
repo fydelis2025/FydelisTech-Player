@@ -1,0 +1,9 @@
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/fydelis-codecs.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/edit_cache.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/rebuild_cache.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/list_install_components.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/install.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/install/local.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/install/strip.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/fydelis-codecs_autogen_timestamp_deps.dir
+C:/Users/asfontes/Desktop/libfydelis-codecs/build/CMakeFiles/fydelis-codecs_autogen.dir
